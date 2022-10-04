@@ -1,0 +1,15 @@
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/arraySum.csproj.AssemblyReference.cache
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/arraySum.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/arraySum.AssemblyInfoInputs.cache
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/arraySum.AssemblyInfo.cs
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/arraySum.csproj.CoreCompileInputs.cache
+/home/ajax/Revature/arraySum/bin/Debug/net6.0/arraySum
+/home/ajax/Revature/arraySum/bin/Debug/net6.0/arraySum.deps.json
+/home/ajax/Revature/arraySum/bin/Debug/net6.0/arraySum.runtimeconfig.json
+/home/ajax/Revature/arraySum/bin/Debug/net6.0/arraySum.dll
+/home/ajax/Revature/arraySum/bin/Debug/net6.0/arraySum.pdb
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/arraySum.dll
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/refint/arraySum.dll
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/arraySum.pdb
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/arraySum.genruntimeconfig.cache
+/home/ajax/Revature/arraySum/obj/Debug/net6.0/ref/arraySum.dll

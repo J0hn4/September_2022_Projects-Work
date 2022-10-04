@@ -1,0 +1,15 @@
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/FlashCardApp.csproj.AssemblyReference.cache
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/FlashCardApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/FlashCardApp.AssemblyInfoInputs.cache
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/FlashCardApp.AssemblyInfo.cs
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/FlashCardApp.csproj.CoreCompileInputs.cache
+/home/ajax/Revature/FlashCardApp/bin/Debug/net6.0/FlashCardApp
+/home/ajax/Revature/FlashCardApp/bin/Debug/net6.0/FlashCardApp.deps.json
+/home/ajax/Revature/FlashCardApp/bin/Debug/net6.0/FlashCardApp.runtimeconfig.json
+/home/ajax/Revature/FlashCardApp/bin/Debug/net6.0/FlashCardApp.dll
+/home/ajax/Revature/FlashCardApp/bin/Debug/net6.0/FlashCardApp.pdb
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/FlashCardApp.dll
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/refint/FlashCardApp.dll
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/FlashCardApp.pdb
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/FlashCardApp.genruntimeconfig.cache
+/home/ajax/Revature/FlashCardApp/obj/Debug/net6.0/ref/FlashCardApp.dll

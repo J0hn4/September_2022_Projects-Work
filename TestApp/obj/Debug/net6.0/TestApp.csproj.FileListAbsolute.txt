@@ -1,0 +1,15 @@
+/home/ajax/Revature/TestApp/bin/Debug/net6.0/TestApp
+/home/ajax/Revature/TestApp/bin/Debug/net6.0/TestApp.deps.json
+/home/ajax/Revature/TestApp/bin/Debug/net6.0/TestApp.runtimeconfig.json
+/home/ajax/Revature/TestApp/bin/Debug/net6.0/TestApp.dll
+/home/ajax/Revature/TestApp/bin/Debug/net6.0/TestApp.pdb
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/TestApp.csproj.AssemblyReference.cache
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/TestApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfoInputs.cache
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/TestApp.AssemblyInfo.cs
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/TestApp.csproj.CoreCompileInputs.cache
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/TestApp.dll
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/refint/TestApp.dll
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/TestApp.pdb
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/TestApp.genruntimeconfig.cache
+/home/ajax/Revature/TestApp/obj/Debug/net6.0/ref/TestApp.dll

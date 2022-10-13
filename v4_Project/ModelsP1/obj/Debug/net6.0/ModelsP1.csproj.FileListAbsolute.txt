@@ -1,0 +1,12 @@
+/home/ajax/Revature/v4_Project/ModelsP1/bin/Debug/net6.0/ModelsP1.deps.json
+/home/ajax/Revature/v4_Project/ModelsP1/bin/Debug/net6.0/ModelsP1.dll
+/home/ajax/Revature/v4_Project/ModelsP1/bin/Debug/net6.0/ModelsP1.pdb
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/ModelsP1.csproj.AssemblyReference.cache
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/ModelsP1.GeneratedMSBuildEditorConfig.editorconfig
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/ModelsP1.AssemblyInfoInputs.cache
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/ModelsP1.AssemblyInfo.cs
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/ModelsP1.csproj.CoreCompileInputs.cache
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/ModelsP1.dll
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/refint/ModelsP1.dll
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/ModelsP1.pdb
+/home/ajax/Revature/v4_Project/ModelsP1/obj/Debug/net6.0/ref/ModelsP1.dll
